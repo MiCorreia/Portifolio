@@ -30,8 +30,6 @@ Com base no design especificado crie esse portfolio responsivo utilizando React.
 
 ### Resultado:
 
-### Resultado:
-
 ![image](https://github.com/MiCorreia/Portifolio/assets/163700231/7c394213-1fd0-4ef0-a18d-f2bf6ec4947e)
 
 <br/> <!-- Espaçamento entre as imagens -->
