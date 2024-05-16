@@ -29,11 +29,11 @@ Com base no design especificado crie esse portfolio responsivo utilizando React.
 
 
 ### Resultado:
-<div>
+
   ![image](https://github.com/MiCorreia/Portifolio/assets/163700231/7c394213-1fd0-4ef0-a18d-f2bf6ec4947e)
   ![image](https://github.com/MiCorreia/Portifolio/assets/163700231/875101a4-4994-49e9-929a-075ab865e60f)
   ![image](https://github.com/MiCorreia/Portifolio/assets/163700231/3a749523-8f6d-430e-bf9d-731e19fb268f)
-</div>
+
 
 
 
